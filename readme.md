@@ -5,3 +5,4 @@ Featuring:
 2. No Babel and no .babelrc 
 3. ES6 let, const, arrow functions
 
+Just clone, npm install, npm build, npm dev, and node dist/main.js
